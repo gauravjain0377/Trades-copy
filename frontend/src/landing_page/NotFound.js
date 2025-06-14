@@ -15,11 +15,9 @@ function NotFound() {
             </Link>
           </p>
         </div>
-        <div className="col-6">
-          <img src="media/images/404 Kiaan.jpg" alt="404 Image" />
+          
         </div>
       </div>
-    </div>
   );
 }
 
