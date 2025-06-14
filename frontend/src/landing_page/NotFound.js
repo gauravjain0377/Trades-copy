@@ -7,7 +7,6 @@ function NotFound() {
       <div className="row">
         <div className="col-6 d-flex flex-column align-self-center">
           <h1 className="fs-4">404</h1>
-          <h1 className="fs-1 mt-2">Kiaan couldn’t find that page</h1>
           <p className="text-muted fs-5 mt-2">
             We couldn’t find the page you were looking <br />
             for Visit{" "}
