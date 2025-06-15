@@ -166,6 +166,15 @@ export const holdings = [
     net: "+18.08%",
     day: "+0.32%",
   },
+  {
+    name: "Titan",
+    qty: 3,
+    avg: 2901.5,
+    price: 3421.90,
+    net: "+14.08%",
+    day: "+0.82%",
+  }
+
 ];
 
 // positions
